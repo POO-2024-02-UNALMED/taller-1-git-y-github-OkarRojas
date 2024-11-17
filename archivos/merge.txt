@@ -2,3 +2,7 @@ Oscar Fabian Rojas Baquero
 Edad = 19
 volverme teso en esta materia
 No hubieron inconvanientes :)
+
+¿Por que es importante tener cuidado al modificar un mismo archivo desde diferentes ubicaciones?
+
+Es importante para evitar modificar las mismas partes o hacer y desacer cambios hechos por nuestros compañeros
